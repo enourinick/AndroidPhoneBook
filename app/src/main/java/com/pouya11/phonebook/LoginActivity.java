@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
 
-    EditText txtPassword;
+    EditText          txtPassword;
     SharedPreferences sharedPreferences;
 
     @Override
